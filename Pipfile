@@ -12,6 +12,7 @@ python-decouple = "*"
 nltk = "*"
 flask-cors = "*"
 requests = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
